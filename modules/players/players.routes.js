@@ -7,6 +7,5 @@ const router = Router();
 module.exports = router;
 
 router.route("/players").get(players.getPlayers);
-// router.route("/player/:id").get(players.getPlayerById);
 
 

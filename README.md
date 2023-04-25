@@ -11,3 +11,5 @@ Pour exécuter ce projet, vous devez avoir Node.js et Express.js Sequelize insta
 ## Installation
 
 Pour démarrer le serveur : npm start
+
+Navigate to `http://localhost:1995/`
