@@ -6,6 +6,8 @@ const router = Router();
 
 module.exports = router;
 
+console.log("test")
+
 router.route("/players").get(players.getPlayers);
 
 
